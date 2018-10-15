@@ -1,0 +1,8 @@
+cd \drag project\
+git init
+git config --global user.name "a2delgwed"
+git config --global user.email "a2delgwed@gmail.com"
+git add .
+git commit -m 'commint'
+git remote add origin \link represitory\
+git push origin master
